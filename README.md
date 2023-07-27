@@ -1,4 +1,3 @@
-# Graduate and Post-Graduate programs in Tirol
+# Graduate and Post-Graduate programs in Tirol, Austria
 
-## [Quantum Computing](quantum-computing.md)
-## [Artificial Intelligence](artificial-intelligence.md)
+## [Data Science](data-science.md)
